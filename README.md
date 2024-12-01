@@ -121,6 +121,7 @@ See [CHANGELOG.md](CHANGELOG.md) for details.
 ## Dependencies
 - Unity 6
 - `https://github.com/mage666/unity-serialize-interface-package` package.
+- Mock Framework `"nuget.moq": "2.0.0"`
 
 ## Contributions
 Contributions are welcome! Please open an issue or pull request if you have suggestions or bug reports.
