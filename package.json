@@ -1,0 +1,10 @@
+﻿{
+  "name": "com.stnc.unity-application-framework",
+  "version": "1.0.0",
+  "displayName": "Unity DI Application Framework",
+  "description": "A Unity package for providing Application Framework that supports lightweight DI Containers to handle Global and Scene dependencies.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.stnc.serializeinterface": "git@github.com:mage666/unity-serialize-interface-package.git"
+  }
+}

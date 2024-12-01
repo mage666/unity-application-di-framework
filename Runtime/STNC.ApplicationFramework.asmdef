@@ -1,0 +1,16 @@
+{
+    "name": "STNC.ApplicationFramework",
+    "rootNamespace": "",
+    "references": [
+        "GUID:dbaf2291520db6842b08d26d802f66a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
