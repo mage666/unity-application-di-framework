@@ -11,6 +11,14 @@ It solves the problem of Unity lifecycle breaking flow due to which providing an
 1. In Unity, navigate to `Window > Package Manager`.
 2. Click the `+` button in the top-left corner, select `Add package from git URL...`, and enter `git@github.com:mage666/unity-application-di-framework.git`.
 
+Using manifest.json
+Add the following to your manifest
+```
+"com.stnc.serializeinterface": "git@github.com:mage666/unity-serialize-interface-package.git",
+"com.stnc.unity-application-framework": "git@github.com:mage666/unity-application-di-framework.git",
+"nuget.moq": "2.0.0"
+```
+
 ## Documentation
 
 Refer [Documentation](Documentation/Readme.md).
