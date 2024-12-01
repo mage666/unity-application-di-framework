@@ -5,6 +5,6 @@
   "description": "A Unity package for providing Application Framework that supports lightweight DI Containers to handle Global and Scene dependencies.",
   "unity": "6000.0",
   "dependencies": {
-    "com.stnc.serializeinterface": "git@github.com:mage666/unity-serialize-interface-package.git"
+    "com.stnc.serializeinterface": "https://github.com/mage666/unity-serialize-interface-package.git"
   }
 }
