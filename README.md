@@ -3,7 +3,7 @@
 ## Overview
 
 This is a lightweight dependency injection framework that provides Bootstrapping functionality to handle dependency injection.
-It solves the problem of Unity lifecycle breaking flow due to which providing and managing dependencies for a testable application becomes very difficult.
+It solves the problem of Unity lifecycle breaking flow due to which providing and managing dependencies for a testable application becoming very difficult.
 
 
 ## Installation
