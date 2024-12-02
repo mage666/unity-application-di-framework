@@ -92,6 +92,10 @@ You can load this in scene using `SceneController`
 
 ---
 
+### Using Debug Application Factory
+You can use the Debug Application Factory to run scenes directly during development while resolving Global dependencies using the Debug Application Factory to mock behaviour of global services.
+For detailed documentation refer [DebugApplicationFactory](Documentation/DebugApplicationFactory.md)
+
 ### Using ServiceContainer to register dependencies
 Using Lambda Factory
 ```csharp
