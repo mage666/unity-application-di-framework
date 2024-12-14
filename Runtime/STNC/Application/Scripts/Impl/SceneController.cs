@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace STNC.Application
 {
-    public abstract class SceneController : MonoBehaviour, ISceneController
+    public class SceneController : MonoBehaviour, ISceneController
     {
         [SerializeReference, SerializeInterface] protected ISceneBootstrapper _sceneBootstrapper;
         [SerializeReference, SerializeInterface] protected IDebugApplicationFactory _debugApplicationFactory;
