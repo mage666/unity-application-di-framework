@@ -8,10 +8,7 @@ namespace STNC.Application
         [SerializeReference, SerializeInterface]
         private IApplicationBootstrapper _application;
 
-        public IApplicationBootstrapper Application
-        {
-            get => _application;
-        }
+        public IApplicationBootstrapper Application => _application;
 
         private void Awake()
         {

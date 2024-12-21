@@ -10,7 +10,7 @@ namespace STNC.Application
         [SerializeReference, SerializeInterface] protected IDebugApplicationFactory _debugApplicationFactory;
         
         public IApplicationBootstrapper Application { get; private set; }
-        public ISceneBootstrapper Scene { get => _sceneBootstrapper; }
+        public ISceneBootstrapper       Scene       => _sceneBootstrapper;
 
         protected virtual void Awake()
         {
